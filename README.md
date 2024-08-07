@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umang Panchal</h1>
-<h3 align="center">A passionate Android & Frontend developer from India.</h3>
+<h3 align="center">A passionate Frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-panchal29&label=Profile%20views&color=0e75b6&style=flat" alt="umang-panchal29" /> </p>
 
@@ -9,13 +9,11 @@
 
 <img align="right" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
-- 🌱 I’m currently learning **React, WordPress**
-
-- 👯 I’m looking to collaborate on [Quickx](https://github.com/Umang-panchal29/QuickX)
+- 🌱 I’m currently learning **Data Analytics 
 
 - 📫 How to reach me **You can contact me at panchalumang2929@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hczJdhuBUPpiJ3GmGDqXyrprAIzlJibM/view](https://drive.google.com/file/d/1hczJdhuBUPpiJ3GmGDqXyrprAIzlJibM/view)
+- 📄 Know about my experiences  file:///C:/Users/DELL/Desktop/LDCE_IT_UMANG PANCHAL_RESUME.pdf (https://drive.google.com/file/d/1hczJdhuBUPpiJ3GmGDqXyrprAIzlJibM/view) file:///C:/Users/DELL/Desktop/LDCE_IT_UMANG PANCHAL_RESUME.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
