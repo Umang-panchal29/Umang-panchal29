@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **You can contact me at panchalumang2929@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/17HYOSRsaXJKnvcLqI4Z89gQaITxXOL8V <a href="https://drive.google.com/drive/folders/17HYOSRsaXJKnvcLqI4Z89gQaITxXOL8V">
+- 📄 Know about my experiences <a href="[https://drive.google.com/drive/folders/17HYOSRsaXJKnvcLqI4Z89gQaITxXOL8V](https://drive.google.com/file/d/1ZydbnxpPkfZNyLDspZyd0EJMymPO6l47/view?usp=drive_link)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
