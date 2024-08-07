@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **You can contact me at panchalumang2929@gmail.com**
 
-- 📄 Know about my experiences file:///C:/Users/DELL/Desktop/LDCE_IT_UMANG PANCHAL_RESUME.pdf
+- 📄 Know about my experiences <a href="file:///C:/Users/DELL/Desktop/LDCE_IT_UMANG PANCHAL_RESUME.pdf">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
