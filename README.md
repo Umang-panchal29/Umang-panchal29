@@ -9,7 +9,7 @@
 
 <img align="right" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
-- 🌱 I’m currently learning **Data Analytics 
+- 🌱 I’m currently learning Docker & Jenkins 
 
 - 📫 How to reach me **You can contact me at panchalumang2929@gmail.com**
 
