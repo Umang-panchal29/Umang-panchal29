@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umang Panchal</h1>
-<h3 align="center">🚀 Frontend Developer </h3>
+<h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-panchal29&label=Profile%20views&color=0e75b6&style=flat" alt="umang-panchal29" /> </p>
 
