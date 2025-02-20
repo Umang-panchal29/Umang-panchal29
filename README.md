@@ -9,11 +9,11 @@
 
 <img align="right" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
-- 🌱 I’m currently learning Docker & Jenkins 
+- 🌱 🚀 Currently learning Node.js and its frameworks to build scalable web applications!
 
 - 📫 How to reach me **You can contact me at panchalumang2929@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/drive/folders/17HYOSRsaXJKnvcLqI4Z89gQaITxXOL8V](https://drive.google.com/file/d/1ZydbnxpPkfZNyLDspZyd0EJMymPO6l47/view?usp=drive_link)">
+- <P "📄 Know about my experiences"  <a href="[https://drive.google.com/drive/folders/17HYOSRsaXJKnvcLqI4Z89gQaITxXOL8V](https://drive.google.com/file/d/1ZydbnxpPkfZNyLDspZyd0EJMymPO6l47/view?usp=drive_link)"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
