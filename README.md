@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umang Panchal</h1>
 <h3 align="center">🚀 Full Stack Developer </h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="img" width="70"> </p>
+<p align="right"> <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="img" width="250"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang-panchal29" alt="umang-panchal29" /></a> </p>
 
