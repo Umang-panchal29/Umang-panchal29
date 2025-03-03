@@ -7,7 +7,7 @@
 
 
 
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmayurr7%2Fmayurr7&psig=AOvVaw2zK49LOCkafttnratgwg3S&ust=1741086283076000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjS-6ri7YsDFQAAAAAdAAAAABAJ">
+<img align="right" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 
 - 🌱 🚀 Currently learning Node.js and its frameworks to build scalable web applications!
 
