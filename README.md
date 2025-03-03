@@ -7,7 +7,7 @@
 
 
 
-<img align="right" width="400" src="[https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftushar07-dev%2Ftushar07-dev&psig=AOvVaw3Ra0o1liCj_uvplrrWmgQX&ust=1741085882138000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC1_vzg7YsDFQAAAAAdAAAAABAE)">
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmayurr7%2Fmayurr7&psig=AOvVaw2zK49LOCkafttnratgwg3S&ust=1741086283076000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjS-6ri7YsDFQAAAAAdAAAAABAJ">
 
 - 🌱 🚀 Currently learning Node.js and its frameworks to build scalable web applications!
 
